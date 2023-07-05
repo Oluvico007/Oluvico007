@@ -2,7 +2,7 @@
 
 - 👋 Hi there, my name is Victor
 
-- 👋 I'm a Data, Business Intelligence Analyst and Machine Learning 
+- 👋 I'm a Data, Business Intelligence Analyst and Machine Learning Expert
 
 - 👋 I'm interested in Data Analytics, Data Science and Data Engineering.
 
